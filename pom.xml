@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.gtfo</groupId>
-    <artifactId>learn_spring_security</artifactId>
+    <artifactId>spring_security_starter_project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>learn_spring_security</name>
     <description>learn_spring_security</description>
